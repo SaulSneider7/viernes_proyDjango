@@ -1,0 +1,7 @@
+mi_proyecto/mi_app/__pycache__
+mi_proyecto/mi_app/migrations
+mi_proyecto/mi_proyecto/__pycache__
+mi_proyecto/mi_proyecto/__init__
+mi_proyecto/db.sqlite3
+mi_proyecto/manage.py
+venv
